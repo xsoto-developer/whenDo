@@ -9,8 +9,10 @@ public class Session {
     private AppiumDriver driver;
     // constructor privado
     private Session(){
-        driver = FactoryDevices.make("android").create();
+//        driver = FactoryDevices.make("android").create();
+        driver = FactoryDevices.make("cloud").create();
     }
+
     // Metodo estatico publico para acceder a la instacia unica
     public static Session getInstnce(){
         if (session == null)
