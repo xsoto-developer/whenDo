@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cleanTest.CreateTaskWhenDoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-17T01:48:11" hostname="DESKTOP-0SUNJO7" time="65.527">
+  <properties/>
+  <testcase name="verifyCreateNewForm()" classname="cleanTest.CreateTaskWhenDoTest" time="65.527"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[oct. 16, 2022 9:48:49 P. M. io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
